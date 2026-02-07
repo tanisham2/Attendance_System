@@ -1,7 +1,7 @@
-#📌 Attendance_System
+## 📌 Attendance_System
 This project implements a Blockchain-Based Attendance Management System designed to provide a secure, transparent, and tamper-proof way of recording attendance. Traditional attendance systems are vulnerable to data manipulation and lack transparency. By leveraging blockchain technology, this system ensures immutability and trust in attendance records.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Prevent manipulation or falsification of attendance records
 Ensure transparency and data integrity
