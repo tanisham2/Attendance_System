@@ -3,7 +3,7 @@ This project implements a Blockchain-Based Attendance Management System designed
 
 ## 🎯 Objectives
 
-Prevent manipulation or falsification of attendance records
+# Prevent manipulation or falsification of attendance records
 Ensure transparency and data integrity
 Maintain a decentralized and secure attendance ledger
 Reduce dependency on manual attendance systems
